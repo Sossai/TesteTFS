@@ -1,4 +1,2 @@
 opa1
-alterei1
-alterei2
 alterei3
